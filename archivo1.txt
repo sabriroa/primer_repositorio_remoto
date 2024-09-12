@@ -1,1 +1,2 @@
 Primer contenido del archivo
+Segunda línea agregada desde la rama1
